@@ -1,12 +1,12 @@
-	Name	type
-0	chest pain	symptom
-1	blood pressure	exam
-2	serum cholesterol	exam
-3	resting blood sugar	exam
-4	eletrocardiography	exam
-5	maximum heart hate	exam
-6	exercice induce angina	exam
-7	ST depression induced by exercice	exam
-8	slope of ST segment on exercice	exam
-9	thal	exam
-10	vassels colored by flourosopy	exam
+,Name,type
+0,chest pain,symptom
+1,blood pressure,exam
+2,serum cholesterol,exam
+3,resting blood sugar,exam
+4,eletrocardiography,exam
+5,maximum heart hate,exam
+6,exercice induce angina,exam
+7,ST depression induced by exercice,exam
+8,slope of ST segment on exercice,exam
+9,thal,exam
+10,vassels colored by flourosopy,exam
