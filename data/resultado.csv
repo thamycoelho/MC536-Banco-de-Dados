@@ -1,0 +1,2453 @@
+,exame,personid,resultado
+0,chest pain,0,2
+1,blood pressure,0,130
+2,serum cholesterol,0,132
+3,resting blood sugar,0,0
+4,eletrocardiography,0,2
+5,maximum heart hate,0,185
+6,exercice induce angina,0,0
+7,ST depression induced by exercice,0,0.0
+8,chest pain,1,2
+9,blood pressure,1,120
+10,serum cholesterol,1,243
+11,resting blood sugar,1,0
+12,eletrocardiography,1,0
+13,maximum heart hate,1,160
+14,exercice induce angina,1,0
+15,ST depression induced by exercice,1,0.0
+16,chest pain,2,2
+17,blood pressure,2,140
+18,resting blood sugar,2,0
+19,eletrocardiography,2,0
+20,maximum heart hate,2,170
+21,exercice induce angina,2,0
+22,ST depression induced by exercice,2,0.0
+23,chest pain,3,1
+24,blood pressure,3,170
+25,serum cholesterol,3,237
+26,resting blood sugar,3,0
+27,eletrocardiography,3,1
+28,maximum heart hate,3,170
+29,exercice induce angina,3,0
+30,ST depression induced by exercice,3,0.0
+31,thal,3,6
+32,chest pain,4,2
+33,blood pressure,4,100
+34,serum cholesterol,4,219
+35,resting blood sugar,4,0
+36,eletrocardiography,4,1
+37,maximum heart hate,4,150
+38,exercice induce angina,4,0
+39,ST depression induced by exercice,4,0.0
+40,chest pain,5,2
+41,blood pressure,5,105
+42,serum cholesterol,5,198
+43,resting blood sugar,5,0
+44,eletrocardiography,5,0
+45,maximum heart hate,5,165
+46,exercice induce angina,5,0
+47,ST depression induced by exercice,5,0.0
+48,chest pain,6,2
+49,blood pressure,6,110
+50,serum cholesterol,6,225
+51,resting blood sugar,6,0
+52,eletrocardiography,6,0
+53,maximum heart hate,6,184
+54,exercice induce angina,6,0
+55,ST depression induced by exercice,6,0.0
+56,chest pain,7,2
+57,blood pressure,7,125
+58,serum cholesterol,7,254
+59,resting blood sugar,7,0
+60,eletrocardiography,7,0
+61,maximum heart hate,7,155
+62,exercice induce angina,7,0
+63,ST depression induced by exercice,7,0.0
+64,chest pain,8,3
+65,blood pressure,8,120
+66,serum cholesterol,8,298
+67,resting blood sugar,8,0
+68,eletrocardiography,8,0
+69,maximum heart hate,8,185
+70,exercice induce angina,8,0
+71,ST depression induced by exercice,8,0.0
+72,chest pain,9,2
+73,blood pressure,9,130
+74,serum cholesterol,9,161
+75,resting blood sugar,9,0
+76,eletrocardiography,9,0
+77,maximum heart hate,9,190
+78,exercice induce angina,9,0
+79,ST depression induced by exercice,9,0.0
+80,chest pain,10,2
+81,blood pressure,10,150
+82,serum cholesterol,10,214
+83,resting blood sugar,10,0
+84,eletrocardiography,10,1
+85,maximum heart hate,10,168
+86,exercice induce angina,10,0
+87,ST depression induced by exercice,10,0.0
+88,chest pain,11,2
+89,blood pressure,11,98
+90,serum cholesterol,11,220
+91,resting blood sugar,11,0
+92,eletrocardiography,11,0
+93,maximum heart hate,11,150
+94,exercice induce angina,11,0
+95,ST depression induced by exercice,11,0.0
+96,chest pain,12,1
+97,blood pressure,12,120
+98,serum cholesterol,12,160
+99,resting blood sugar,12,0
+100,eletrocardiography,12,1
+101,maximum heart hate,12,185
+102,exercice induce angina,12,0
+103,ST depression induced by exercice,12,0.0
+104,chest pain,13,4
+105,blood pressure,13,140
+106,serum cholesterol,13,167
+107,resting blood sugar,13,0
+108,eletrocardiography,13,0
+109,maximum heart hate,13,150
+110,exercice induce angina,13,0
+111,ST depression induced by exercice,13,0.0
+112,chest pain,14,2
+113,blood pressure,14,120
+114,serum cholesterol,14,308
+115,resting blood sugar,14,0
+116,eletrocardiography,14,2
+117,maximum heart hate,14,180
+118,exercice induce angina,14,0
+119,ST depression induced by exercice,14,0.0
+120,chest pain,15,2
+121,blood pressure,15,150
+122,serum cholesterol,15,264
+123,resting blood sugar,15,0
+124,eletrocardiography,15,0
+125,maximum heart hate,15,168
+126,exercice induce angina,15,0
+127,ST depression induced by exercice,15,0.0
+128,chest pain,16,2
+129,blood pressure,16,120
+130,serum cholesterol,16,166
+131,resting blood sugar,16,0
+132,eletrocardiography,16,0
+133,maximum heart hate,16,180
+134,exercice induce angina,16,0
+135,ST depression induced by exercice,16,0.0
+136,chest pain,17,3
+137,blood pressure,17,112
+138,serum cholesterol,17,340
+139,resting blood sugar,17,0
+140,eletrocardiography,17,0
+141,maximum heart hate,17,184
+142,exercice induce angina,17,0
+143,ST depression induced by exercice,17,1.0
+144,slope of ST segment on exercice,17,2
+145,thal,17,3
+146,chest pain,18,3
+147,blood pressure,18,130
+148,serum cholesterol,18,209
+149,resting blood sugar,18,0
+150,eletrocardiography,18,0
+151,maximum heart hate,18,178
+152,exercice induce angina,18,0
+153,ST depression induced by exercice,18,0.0
+154,chest pain,19,3
+155,blood pressure,19,150
+156,serum cholesterol,19,160
+157,resting blood sugar,19,0
+158,eletrocardiography,19,0
+159,maximum heart hate,19,172
+160,exercice induce angina,19,0
+161,ST depression induced by exercice,19,0.0
+162,chest pain,20,2
+163,blood pressure,20,120
+164,serum cholesterol,20,260
+165,resting blood sugar,20,0
+166,eletrocardiography,20,0
+167,maximum heart hate,20,130
+168,exercice induce angina,20,0
+169,ST depression induced by exercice,20,0.0
+170,chest pain,21,3
+171,blood pressure,21,130
+172,serum cholesterol,21,211
+173,resting blood sugar,21,0
+174,eletrocardiography,21,0
+175,maximum heart hate,21,142
+176,exercice induce angina,21,0
+177,ST depression induced by exercice,21,0.0
+178,chest pain,22,4
+179,blood pressure,22,130
+180,serum cholesterol,22,173
+181,resting blood sugar,22,0
+182,eletrocardiography,22,1
+183,maximum heart hate,22,184
+184,exercice induce angina,22,0
+185,ST depression induced by exercice,22,0.0
+186,chest pain,23,2
+187,blood pressure,23,130
+188,serum cholesterol,23,283
+189,resting blood sugar,23,0
+190,eletrocardiography,23,1
+191,maximum heart hate,23,98
+192,exercice induce angina,23,0
+193,ST depression induced by exercice,23,0.0
+194,chest pain,24,3
+195,blood pressure,24,130
+196,serum cholesterol,24,194
+197,resting blood sugar,24,0
+198,eletrocardiography,24,0
+199,maximum heart hate,24,150
+200,exercice induce angina,24,0
+201,ST depression induced by exercice,24,0.0
+202,chest pain,25,4
+203,blood pressure,25,120
+204,serum cholesterol,25,223
+205,resting blood sugar,25,0
+206,eletrocardiography,25,0
+207,maximum heart hate,25,168
+208,exercice induce angina,25,0
+209,ST depression induced by exercice,25,0.0
+210,thal,25,3
+211,chest pain,26,4
+212,blood pressure,26,130
+213,serum cholesterol,26,315
+214,resting blood sugar,26,0
+215,eletrocardiography,26,0
+216,maximum heart hate,26,158
+217,exercice induce angina,26,0
+218,ST depression induced by exercice,26,0.0
+219,chest pain,27,2
+220,blood pressure,27,120
+221,serum cholesterol,27,275
+222,eletrocardiography,27,0
+223,maximum heart hate,27,129
+224,exercice induce angina,27,0
+225,ST depression induced by exercice,27,0.0
+226,chest pain,28,2
+227,blood pressure,28,140
+228,serum cholesterol,28,297
+229,resting blood sugar,28,0
+230,eletrocardiography,28,0
+231,maximum heart hate,28,150
+232,exercice induce angina,28,0
+233,ST depression induced by exercice,28,0.0
+234,chest pain,29,3
+235,blood pressure,29,145
+236,serum cholesterol,29,292
+237,resting blood sugar,29,0
+238,eletrocardiography,29,0
+239,maximum heart hate,29,130
+240,exercice induce angina,29,0
+241,ST depression induced by exercice,29,0.0
+242,chest pain,30,3
+243,blood pressure,30,110
+244,serum cholesterol,30,182
+245,resting blood sugar,30,0
+246,eletrocardiography,30,1
+247,maximum heart hate,30,180
+248,exercice induce angina,30,0
+249,ST depression induced by exercice,30,0.0
+250,chest pain,31,2
+251,blood pressure,31,120
+252,resting blood sugar,31,0
+253,eletrocardiography,31,1
+254,maximum heart hate,31,146
+255,exercice induce angina,31,0
+256,ST depression induced by exercice,31,2.0
+257,slope of ST segment on exercice,31,1
+258,chest pain,32,2
+259,blood pressure,32,120
+260,serum cholesterol,32,200
+261,resting blood sugar,32,0
+262,eletrocardiography,32,0
+263,maximum heart hate,32,160
+264,exercice induce angina,32,1
+265,ST depression induced by exercice,32,1.0
+266,slope of ST segment on exercice,32,2
+267,chest pain,33,2
+268,blood pressure,33,120
+269,serum cholesterol,33,204
+270,resting blood sugar,33,0
+271,eletrocardiography,33,0
+272,maximum heart hate,33,145
+273,exercice induce angina,33,0
+274,ST depression induced by exercice,33,0.0
+275,chest pain,34,2
+276,blood pressure,34,130
+277,resting blood sugar,34,0
+278,eletrocardiography,34,0
+279,maximum heart hate,34,120
+280,exercice induce angina,34,0
+281,ST depression induced by exercice,34,0.0
+282,chest pain,35,2
+283,blood pressure,35,190
+284,serum cholesterol,35,241
+285,resting blood sugar,35,0
+286,eletrocardiography,35,0
+287,maximum heart hate,35,106
+288,exercice induce angina,35,0
+289,ST depression induced by exercice,35,0.0
+290,chest pain,36,3
+291,blood pressure,36,120
+292,serum cholesterol,36,339
+293,resting blood sugar,36,0
+294,eletrocardiography,36,0
+295,maximum heart hate,36,170
+296,exercice induce angina,36,0
+297,ST depression induced by exercice,36,0.0
+298,chest pain,37,3
+299,blood pressure,37,160
+300,serum cholesterol,37,147
+301,resting blood sugar,37,1
+302,eletrocardiography,37,0
+303,maximum heart hate,37,160
+304,exercice induce angina,37,0
+305,ST depression induced by exercice,37,0.0
+306,chest pain,38,4
+307,blood pressure,38,110
+308,serum cholesterol,38,273
+309,resting blood sugar,38,0
+310,eletrocardiography,38,0
+311,maximum heart hate,38,132
+312,exercice induce angina,38,0
+313,ST depression induced by exercice,38,0.0
+314,chest pain,39,4
+315,blood pressure,39,130
+316,serum cholesterol,39,307
+317,resting blood sugar,39,0
+318,eletrocardiography,39,0
+319,maximum heart hate,39,140
+320,exercice induce angina,39,0
+321,ST depression induced by exercice,39,0.0
+322,chest pain,40,2
+323,blood pressure,40,130
+324,serum cholesterol,40,275
+325,resting blood sugar,40,0
+326,eletrocardiography,40,0
+327,maximum heart hate,40,150
+328,exercice induce angina,40,0
+329,ST depression induced by exercice,40,0.0
+330,chest pain,41,2
+331,blood pressure,41,140
+332,serum cholesterol,41,289
+333,resting blood sugar,41,0
+334,eletrocardiography,41,0
+335,maximum heart hate,41,172
+336,exercice induce angina,41,0
+337,ST depression induced by exercice,41,0.0
+338,chest pain,42,3
+339,blood pressure,42,130
+340,serum cholesterol,42,215
+341,resting blood sugar,42,0
+342,eletrocardiography,42,0
+343,maximum heart hate,42,138
+344,exercice induce angina,42,0
+345,ST depression induced by exercice,42,0.0
+346,chest pain,43,3
+347,blood pressure,43,130
+348,serum cholesterol,43,281
+349,resting blood sugar,43,0
+350,eletrocardiography,43,0
+351,maximum heart hate,43,167
+352,exercice induce angina,43,0
+353,ST depression induced by exercice,43,0.0
+354,chest pain,44,3
+355,blood pressure,44,140
+356,resting blood sugar,44,0
+357,eletrocardiography,44,0
+358,maximum heart hate,44,188
+359,exercice induce angina,44,0
+360,ST depression induced by exercice,44,0.0
+361,chest pain,45,2
+362,blood pressure,45,110
+363,serum cholesterol,45,250
+364,resting blood sugar,45,0
+365,eletrocardiography,45,1
+366,maximum heart hate,45,142
+367,exercice induce angina,45,0
+368,ST depression induced by exercice,45,0.0
+369,chest pain,46,2
+370,blood pressure,46,125
+371,serum cholesterol,46,184
+372,resting blood sugar,46,0
+373,eletrocardiography,46,0
+374,maximum heart hate,46,180
+375,exercice induce angina,46,0
+376,ST depression induced by exercice,46,0.0
+377,chest pain,47,2
+378,blood pressure,47,130
+379,serum cholesterol,47,245
+380,resting blood sugar,47,0
+381,eletrocardiography,47,0
+382,maximum heart hate,47,150
+383,exercice induce angina,47,0
+384,ST depression induced by exercice,47,0.0
+385,chest pain,48,2
+386,blood pressure,48,120
+387,serum cholesterol,48,291
+388,resting blood sugar,48,0
+389,eletrocardiography,48,1
+390,maximum heart hate,48,160
+391,exercice induce angina,48,0
+392,ST depression induced by exercice,48,0.0
+393,chest pain,49,2
+394,blood pressure,49,120
+395,serum cholesterol,49,295
+396,resting blood sugar,49,0
+397,eletrocardiography,49,0
+398,maximum heart hate,49,170
+399,exercice induce angina,49,0
+400,ST depression induced by exercice,49,0.0
+401,chest pain,50,2
+402,blood pressure,50,125
+403,serum cholesterol,50,269
+404,resting blood sugar,50,0
+405,eletrocardiography,50,0
+406,maximum heart hate,50,144
+407,exercice induce angina,50,0
+408,ST depression induced by exercice,50,0.0
+409,chest pain,51,4
+410,blood pressure,51,112
+411,serum cholesterol,51,250
+412,resting blood sugar,51,0
+413,eletrocardiography,51,0
+414,maximum heart hate,51,142
+415,exercice induce angina,51,0
+416,ST depression induced by exercice,51,0.0
+417,chest pain,52,3
+418,blood pressure,52,115
+419,serum cholesterol,52,211
+420,resting blood sugar,52,0
+421,eletrocardiography,52,1
+422,maximum heart hate,52,137
+423,exercice induce angina,52,0
+424,ST depression induced by exercice,52,0.0
+425,chest pain,53,2
+426,blood pressure,53,120
+427,serum cholesterol,53,196
+428,resting blood sugar,53,0
+429,eletrocardiography,53,0
+430,maximum heart hate,53,150
+431,exercice induce angina,53,0
+432,ST depression induced by exercice,53,0.0
+433,chest pain,54,2
+434,blood pressure,54,120
+435,serum cholesterol,54,198
+436,resting blood sugar,54,0
+437,eletrocardiography,54,0
+438,maximum heart hate,54,155
+439,exercice induce angina,54,0
+440,ST depression induced by exercice,54,0.0
+441,chest pain,55,2
+442,blood pressure,55,150
+443,serum cholesterol,55,268
+444,resting blood sugar,55,0
+445,eletrocardiography,55,0
+446,maximum heart hate,55,136
+447,exercice induce angina,55,0
+448,ST depression induced by exercice,55,0.0
+449,chest pain,56,3
+450,blood pressure,56,120
+451,serum cholesterol,56,228
+452,resting blood sugar,56,0
+453,eletrocardiography,56,0
+454,maximum heart hate,56,152
+455,exercice induce angina,56,1
+456,ST depression induced by exercice,56,1.5
+457,slope of ST segment on exercice,56,2
+458,chest pain,57,3
+459,blood pressure,57,160
+460,serum cholesterol,57,147
+461,resting blood sugar,57,0
+462,eletrocardiography,57,0
+463,maximum heart hate,57,146
+464,exercice induce angina,57,0
+465,ST depression induced by exercice,57,0.0
+466,chest pain,58,4
+467,blood pressure,58,140
+468,serum cholesterol,58,358
+469,resting blood sugar,58,0
+470,eletrocardiography,58,0
+471,maximum heart hate,58,170
+472,exercice induce angina,58,0
+473,ST depression induced by exercice,58,0.0
+474,chest pain,59,1
+475,blood pressure,59,100
+476,serum cholesterol,59,223
+477,resting blood sugar,59,0
+478,eletrocardiography,59,0
+479,maximum heart hate,59,142
+480,exercice induce angina,59,0
+481,ST depression induced by exercice,59,0.0
+482,chest pain,60,2
+483,blood pressure,60,120
+484,serum cholesterol,60,201
+485,resting blood sugar,60,0
+486,eletrocardiography,60,0
+487,maximum heart hate,60,165
+488,exercice induce angina,60,0
+489,ST depression induced by exercice,60,0.0
+490,chest pain,61,2
+491,blood pressure,61,120
+492,serum cholesterol,61,215
+493,resting blood sugar,61,0
+494,eletrocardiography,61,1
+495,maximum heart hate,61,175
+496,exercice induce angina,61,0
+497,ST depression induced by exercice,61,0.0
+498,chest pain,62,2
+499,blood pressure,62,120
+500,serum cholesterol,62,249
+501,resting blood sugar,62,0
+502,eletrocardiography,62,1
+503,maximum heart hate,62,176
+504,exercice induce angina,62,0
+505,ST depression induced by exercice,62,0.0
+506,chest pain,63,2
+507,blood pressure,63,120
+508,serum cholesterol,63,266
+509,resting blood sugar,63,0
+510,eletrocardiography,63,0
+511,maximum heart hate,63,118
+512,exercice induce angina,63,0
+513,ST depression induced by exercice,63,0.0
+514,chest pain,64,2
+515,blood pressure,64,150
+516,serum cholesterol,64,186
+517,resting blood sugar,64,0
+518,eletrocardiography,64,0
+519,maximum heart hate,64,154
+520,exercice induce angina,64,0
+521,ST depression induced by exercice,64,0.0
+522,chest pain,65,3
+523,blood pressure,65,150
+524,resting blood sugar,65,0
+525,eletrocardiography,65,0
+526,maximum heart hate,65,175
+527,exercice induce angina,65,0
+528,ST depression induced by exercice,65,0.0
+529,thal,65,3
+530,chest pain,66,2
+531,blood pressure,66,142
+532,serum cholesterol,66,207
+533,resting blood sugar,66,0
+534,eletrocardiography,66,0
+535,maximum heart hate,66,138
+536,exercice induce angina,66,0
+537,ST depression induced by exercice,66,0.0
+538,chest pain,67,4
+539,blood pressure,67,120
+540,serum cholesterol,67,218
+541,resting blood sugar,67,0
+542,eletrocardiography,67,1
+543,maximum heart hate,67,115
+544,exercice induce angina,67,0
+545,ST depression induced by exercice,67,0.0
+546,chest pain,68,2
+547,blood pressure,68,120
+548,serum cholesterol,68,184
+549,resting blood sugar,68,0
+550,eletrocardiography,68,0
+551,maximum heart hate,68,142
+552,exercice induce angina,68,0
+553,ST depression induced by exercice,68,1.0
+554,slope of ST segment on exercice,68,2
+555,chest pain,69,2
+556,blood pressure,69,130
+557,serum cholesterol,69,215
+558,resting blood sugar,69,0
+559,eletrocardiography,69,0
+560,maximum heart hate,69,135
+561,exercice induce angina,69,0
+562,ST depression induced by exercice,69,0.0
+563,chest pain,70,4
+564,blood pressure,70,150
+565,serum cholesterol,70,412
+566,resting blood sugar,70,0
+567,eletrocardiography,70,0
+568,maximum heart hate,70,170
+569,exercice induce angina,70,0
+570,ST depression induced by exercice,70,0.0
+571,chest pain,71,2
+572,blood pressure,71,130
+573,serum cholesterol,71,237
+574,resting blood sugar,71,0
+575,eletrocardiography,71,0
+576,maximum heart hate,71,170
+577,exercice induce angina,71,0
+578,ST depression induced by exercice,71,0.0
+579,chest pain,72,2
+580,blood pressure,72,180
+581,resting blood sugar,72,0
+582,eletrocardiography,72,0
+583,maximum heart hate,72,180
+584,exercice induce angina,72,0
+585,ST depression induced by exercice,72,0.0
+586,chest pain,73,4
+587,blood pressure,73,132
+588,serum cholesterol,73,297
+589,resting blood sugar,73,0
+590,eletrocardiography,73,0
+591,maximum heart hate,73,144
+592,exercice induce angina,73,0
+593,ST depression induced by exercice,73,0.0
+594,chest pain,74,2
+595,blood pressure,74,140
+596,serum cholesterol,74,224
+597,resting blood sugar,74,1
+598,eletrocardiography,74,0
+599,maximum heart hate,74,122
+600,exercice induce angina,74,0
+601,ST depression induced by exercice,74,0.0
+602,chest pain,75,3
+603,blood pressure,75,135
+604,resting blood sugar,75,0
+605,eletrocardiography,75,0
+606,maximum heart hate,75,110
+607,exercice induce angina,75,0
+608,ST depression induced by exercice,75,0.0
+609,chest pain,76,4
+610,blood pressure,76,120
+611,serum cholesterol,76,225
+612,resting blood sugar,76,0
+613,eletrocardiography,76,0
+614,maximum heart hate,76,140
+615,exercice induce angina,76,0
+616,ST depression induced by exercice,76,0.0
+617,chest pain,77,4
+618,blood pressure,77,140
+619,serum cholesterol,77,224
+620,resting blood sugar,77,0
+621,eletrocardiography,77,0
+622,maximum heart hate,77,144
+623,exercice induce angina,77,0
+624,ST depression induced by exercice,77,0.0
+625,chest pain,78,4
+626,blood pressure,78,130
+627,serum cholesterol,78,238
+628,resting blood sugar,78,0
+629,eletrocardiography,78,0
+630,maximum heart hate,78,90
+631,exercice induce angina,78,0
+632,ST depression induced by exercice,78,0.0
+633,chest pain,79,2
+634,blood pressure,79,140
+635,serum cholesterol,79,275
+636,resting blood sugar,79,0
+637,eletrocardiography,79,0
+638,maximum heart hate,79,165
+639,exercice induce angina,79,1
+640,ST depression induced by exercice,79,0.0
+641,chest pain,80,3
+642,blood pressure,80,120
+643,serum cholesterol,80,230
+644,resting blood sugar,80,0
+645,eletrocardiography,80,0
+646,maximum heart hate,80,150
+647,exercice induce angina,80,0
+648,ST depression induced by exercice,80,0.0
+649,chest pain,81,3
+650,blood pressure,81,150
+651,serum cholesterol,81,163
+652,eletrocardiography,81,0
+653,maximum heart hate,81,116
+654,exercice induce angina,81,0
+655,ST depression induced by exercice,81,0.0
+656,chest pain,82,4
+657,blood pressure,82,110
+658,serum cholesterol,82,238
+659,resting blood sugar,82,0
+660,eletrocardiography,82,1
+661,maximum heart hate,82,140
+662,exercice induce angina,82,1
+663,ST depression induced by exercice,82,1.0
+664,slope of ST segment on exercice,82,2
+665,thal,82,3
+666,chest pain,83,4
+667,blood pressure,83,110
+668,serum cholesterol,83,240
+669,resting blood sugar,83,0
+670,eletrocardiography,83,1
+671,maximum heart hate,83,140
+672,exercice induce angina,83,0
+673,ST depression induced by exercice,83,0.0
+674,thal,83,3
+675,chest pain,84,4
+676,blood pressure,84,180
+677,serum cholesterol,84,280
+678,resting blood sugar,84,0
+679,eletrocardiography,84,1
+680,maximum heart hate,84,120
+681,exercice induce angina,84,0
+682,ST depression induced by exercice,84,0.0
+683,chest pain,85,2
+684,blood pressure,85,140
+685,serum cholesterol,85,257
+686,resting blood sugar,85,0
+687,eletrocardiography,85,0
+688,maximum heart hate,85,135
+689,exercice induce angina,85,0
+690,ST depression induced by exercice,85,1.0
+691,slope of ST segment on exercice,85,1
+692,chest pain,86,3
+693,blood pressure,86,130
+694,resting blood sugar,86,0
+695,eletrocardiography,86,0
+696,maximum heart hate,86,145
+697,exercice induce angina,86,0
+698,ST depression induced by exercice,86,2.0
+699,slope of ST segment on exercice,86,2
+700,chest pain,87,1
+701,blood pressure,87,110
+702,serum cholesterol,87,249
+703,resting blood sugar,87,0
+704,eletrocardiography,87,0
+705,maximum heart hate,87,150
+706,exercice induce angina,87,0
+707,ST depression induced by exercice,87,0.0
+708,chest pain,88,2
+709,blood pressure,88,160
+710,serum cholesterol,88,263
+711,resting blood sugar,88,0
+712,eletrocardiography,88,0
+713,maximum heart hate,88,174
+714,exercice induce angina,88,0
+715,ST depression induced by exercice,88,0.0
+716,chest pain,89,4
+717,blood pressure,89,140
+718,serum cholesterol,89,276
+719,resting blood sugar,89,1
+720,eletrocardiography,89,0
+721,maximum heart hate,89,125
+722,exercice induce angina,89,1
+723,ST depression induced by exercice,89,0.0
+724,chest pain,90,2
+725,serum cholesterol,90,308
+726,resting blood sugar,90,0
+727,eletrocardiography,90,1
+728,ST depression induced by exercice,90,2.0
+729,slope of ST segment on exercice,90,1
+730,chest pain,91,2
+731,blood pressure,91,120
+732,resting blood sugar,91,1
+733,eletrocardiography,91,1
+734,maximum heart hate,91,148
+735,exercice induce angina,91,0
+736,ST depression induced by exercice,91,0.0
+737,chest pain,92,2
+738,blood pressure,92,120
+739,serum cholesterol,92,284
+740,resting blood sugar,92,0
+741,eletrocardiography,92,0
+742,maximum heart hate,92,120
+743,exercice induce angina,92,0
+744,ST depression induced by exercice,92,0.0
+745,chest pain,93,3
+746,blood pressure,93,120
+747,serum cholesterol,93,195
+748,resting blood sugar,93,0
+749,eletrocardiography,93,0
+750,maximum heart hate,93,125
+751,exercice induce angina,93,0
+752,ST depression induced by exercice,93,0.0
+753,chest pain,94,4
+754,blood pressure,94,108
+755,serum cholesterol,94,163
+756,resting blood sugar,94,0
+757,eletrocardiography,94,0
+758,maximum heart hate,94,175
+759,exercice induce angina,94,0
+760,ST depression induced by exercice,94,2.0
+761,slope of ST segment on exercice,94,1
+762,chest pain,95,4
+763,blood pressure,95,120
+764,serum cholesterol,95,254
+765,resting blood sugar,95,0
+766,eletrocardiography,95,1
+767,maximum heart hate,95,110
+768,exercice induce angina,95,0
+769,ST depression induced by exercice,95,0.0
+770,chest pain,96,4
+771,blood pressure,96,150
+772,serum cholesterol,96,227
+773,resting blood sugar,96,0
+774,eletrocardiography,96,0
+775,maximum heart hate,96,130
+776,exercice induce angina,96,1
+777,ST depression induced by exercice,96,1.0
+778,slope of ST segment on exercice,96,2
+779,chest pain,97,2
+780,blood pressure,97,100
+781,resting blood sugar,97,0
+782,eletrocardiography,97,0
+783,maximum heart hate,97,100
+784,exercice induce angina,97,0
+785,ST depression induced by exercice,97,0.0
+786,chest pain,98,2
+787,blood pressure,98,130
+788,serum cholesterol,98,245
+789,resting blood sugar,98,0
+790,eletrocardiography,98,0
+791,maximum heart hate,98,160
+792,exercice induce angina,98,0
+793,ST depression induced by exercice,98,0.0
+794,chest pain,99,2
+795,blood pressure,99,140
+796,serum cholesterol,99,238
+797,resting blood sugar,99,0
+798,eletrocardiography,99,0
+799,maximum heart hate,99,118
+800,exercice induce angina,99,0
+801,ST depression induced by exercice,99,0.0
+802,chest pain,100,3
+803,blood pressure,100,110
+804,serum cholesterol,100,211
+805,resting blood sugar,100,0
+806,eletrocardiography,100,0
+807,maximum heart hate,100,138
+808,exercice induce angina,100,0
+809,ST depression induced by exercice,100,0.0
+810,thal,100,6
+811,chest pain,101,2
+812,blood pressure,101,110
+813,resting blood sugar,101,0
+814,eletrocardiography,101,0
+815,maximum heart hate,101,160
+816,exercice induce angina,101,0
+817,ST depression induced by exercice,101,0.0
+818,chest pain,102,2
+819,blood pressure,102,110
+820,resting blood sugar,102,0
+821,eletrocardiography,102,0
+822,maximum heart hate,102,160
+823,exercice induce angina,102,0
+824,ST depression induced by exercice,102,0.0
+825,chest pain,103,2
+826,blood pressure,103,124
+827,serum cholesterol,103,201
+828,resting blood sugar,103,0
+829,eletrocardiography,103,0
+830,maximum heart hate,103,164
+831,exercice induce angina,103,0
+832,ST depression induced by exercice,103,0.0
+833,chest pain,104,3
+834,blood pressure,104,130
+835,serum cholesterol,104,207
+836,resting blood sugar,104,0
+837,eletrocardiography,104,1
+838,maximum heart hate,104,135
+839,exercice induce angina,104,0
+840,ST depression induced by exercice,104,0.0
+841,chest pain,105,2
+842,blood pressure,105,100
+843,serum cholesterol,105,253
+844,resting blood sugar,105,0
+845,eletrocardiography,105,0
+846,maximum heart hate,105,174
+847,exercice induce angina,105,0
+848,ST depression induced by exercice,105,0.0
+849,chest pain,106,3
+850,blood pressure,106,140
+851,serum cholesterol,106,187
+852,resting blood sugar,106,0
+853,eletrocardiography,106,0
+854,maximum heart hate,106,172
+855,exercice induce angina,106,0
+856,ST depression induced by exercice,106,0.0
+857,chest pain,107,4
+858,blood pressure,107,120
+859,serum cholesterol,107,297
+860,eletrocardiography,107,0
+861,maximum heart hate,107,132
+862,exercice induce angina,107,0
+863,ST depression induced by exercice,107,1.0
+864,slope of ST segment on exercice,107,2
+865,chest pain,108,4
+866,blood pressure,108,140
+867,resting blood sugar,108,0
+868,eletrocardiography,108,0
+869,maximum heart hate,108,130
+870,exercice induce angina,108,0
+871,ST depression induced by exercice,108,0.0
+872,chest pain,109,2
+873,blood pressure,109,110
+874,serum cholesterol,109,202
+875,resting blood sugar,109,0
+876,eletrocardiography,109,0
+877,maximum heart hate,109,145
+878,exercice induce angina,109,0
+879,ST depression induced by exercice,109,0.0
+880,chest pain,110,4
+881,blood pressure,110,120
+882,serum cholesterol,110,328
+883,resting blood sugar,110,0
+884,eletrocardiography,110,0
+885,maximum heart hate,110,110
+886,exercice induce angina,110,1
+887,ST depression induced by exercice,110,1.0
+888,slope of ST segment on exercice,110,2
+889,chest pain,111,2
+890,blood pressure,111,120
+891,serum cholesterol,111,168
+892,resting blood sugar,111,0
+893,eletrocardiography,111,0
+894,maximum heart hate,111,160
+895,exercice induce angina,111,0
+896,ST depression induced by exercice,111,0.0
+897,vassels colored by flourosopy,111,0
+898,chest pain,112,2
+899,blood pressure,112,140
+900,serum cholesterol,112,216
+901,resting blood sugar,112,0
+902,eletrocardiography,112,0
+903,maximum heart hate,112,170
+904,exercice induce angina,112,0
+905,ST depression induced by exercice,112,0.0
+906,thal,112,3
+907,chest pain,113,2
+908,blood pressure,113,170
+909,serum cholesterol,113,209
+910,resting blood sugar,113,0
+911,eletrocardiography,113,1
+912,maximum heart hate,113,116
+913,exercice induce angina,113,0
+914,ST depression induced by exercice,113,0.0
+915,chest pain,114,4
+916,blood pressure,114,140
+917,serum cholesterol,114,129
+918,resting blood sugar,114,0
+919,eletrocardiography,114,0
+920,maximum heart hate,114,135
+921,exercice induce angina,114,0
+922,ST depression induced by exercice,114,0.0
+923,chest pain,115,4
+924,blood pressure,115,150
+925,serum cholesterol,115,215
+926,resting blood sugar,115,0
+927,eletrocardiography,115,0
+928,maximum heart hate,115,140
+929,exercice induce angina,115,1
+930,ST depression induced by exercice,115,0.0
+931,chest pain,116,2
+932,blood pressure,116,160
+933,serum cholesterol,116,194
+934,resting blood sugar,116,0
+935,eletrocardiography,116,0
+936,maximum heart hate,116,170
+937,exercice induce angina,116,0
+938,ST depression induced by exercice,116,0.0
+939,chest pain,117,3
+940,blood pressure,117,110
+941,serum cholesterol,117,190
+942,resting blood sugar,117,0
+943,eletrocardiography,117,0
+944,maximum heart hate,117,120
+945,exercice induce angina,117,0
+946,ST depression induced by exercice,117,0.0
+947,chest pain,118,3
+948,blood pressure,118,130
+949,serum cholesterol,118,220
+950,resting blood sugar,118,0
+951,eletrocardiography,118,0
+952,maximum heart hate,118,160
+953,exercice induce angina,118,1
+954,ST depression induced by exercice,118,2.0
+955,slope of ST segment on exercice,118,1
+956,chest pain,119,3
+957,blood pressure,119,150
+958,serum cholesterol,119,200
+959,resting blood sugar,119,0
+960,eletrocardiography,119,0
+961,maximum heart hate,119,120
+962,exercice induce angina,119,0
+963,ST depression induced by exercice,119,0.5
+964,slope of ST segment on exercice,119,1
+965,chest pain,120,2
+966,blood pressure,120,125
+967,serum cholesterol,120,188
+968,resting blood sugar,120,0
+969,eletrocardiography,120,0
+970,maximum heart hate,120,145
+971,exercice induce angina,120,0
+972,ST depression induced by exercice,120,0.0
+973,chest pain,121,2
+974,blood pressure,121,130
+975,serum cholesterol,121,224
+976,resting blood sugar,121,0
+977,eletrocardiography,121,0
+978,maximum heart hate,121,150
+979,exercice induce angina,121,0
+980,ST depression induced by exercice,121,0.0
+981,chest pain,122,4
+982,blood pressure,122,130
+983,serum cholesterol,122,179
+984,resting blood sugar,122,0
+985,eletrocardiography,122,0
+986,maximum heart hate,122,100
+987,exercice induce angina,122,0
+988,ST depression induced by exercice,122,0.0
+989,thal,122,7
+990,chest pain,123,2
+991,blood pressure,123,120
+992,serum cholesterol,123,210
+993,resting blood sugar,123,0
+994,eletrocardiography,123,0
+995,maximum heart hate,123,148
+996,exercice induce angina,123,0
+997,ST depression induced by exercice,123,0.0
+998,chest pain,124,2
+999,blood pressure,124,140
+1000,resting blood sugar,124,0
+1001,eletrocardiography,124,0
+1002,maximum heart hate,124,140
+1003,exercice induce angina,124,0
+1004,ST depression induced by exercice,124,0.0
+1005,chest pain,125,3
+1006,blood pressure,125,125
+1007,serum cholesterol,125,272
+1008,resting blood sugar,125,0
+1009,eletrocardiography,125,0
+1010,maximum heart hate,125,139
+1011,exercice induce angina,125,0
+1012,ST depression induced by exercice,125,0.0
+1013,chest pain,126,4
+1014,blood pressure,126,130
+1015,serum cholesterol,126,180
+1016,resting blood sugar,126,0
+1017,eletrocardiography,126,0
+1018,maximum heart hate,126,140
+1019,exercice induce angina,126,1
+1020,ST depression induced by exercice,126,1.5
+1021,slope of ST segment on exercice,126,2
+1022,chest pain,127,2
+1023,blood pressure,127,120
+1024,serum cholesterol,127,284
+1025,resting blood sugar,127,0
+1026,eletrocardiography,127,0
+1027,maximum heart hate,127,118
+1028,exercice induce angina,127,0
+1029,ST depression induced by exercice,127,0.0
+1030,chest pain,128,2
+1031,blood pressure,128,140
+1032,serum cholesterol,128,100
+1033,resting blood sugar,128,0
+1034,eletrocardiography,128,0
+1035,maximum heart hate,128,138
+1036,exercice induce angina,128,1
+1037,ST depression induced by exercice,128,0.0
+1038,chest pain,129,2
+1039,blood pressure,129,160
+1040,serum cholesterol,129,196
+1041,resting blood sugar,129,0
+1042,eletrocardiography,129,0
+1043,maximum heart hate,129,165
+1044,exercice induce angina,129,0
+1045,ST depression induced by exercice,129,0.0
+1046,chest pain,130,3
+1047,blood pressure,130,140
+1048,serum cholesterol,130,259
+1049,resting blood sugar,130,0
+1050,eletrocardiography,130,1
+1051,maximum heart hate,130,170
+1052,exercice induce angina,130,0
+1053,ST depression induced by exercice,130,0.0
+1054,chest pain,131,2
+1055,blood pressure,131,113
+1056,serum cholesterol,131,468
+1057,eletrocardiography,131,0
+1058,maximum heart hate,131,127
+1059,exercice induce angina,131,0
+1060,ST depression induced by exercice,131,0.0
+1061,chest pain,132,2
+1062,blood pressure,132,140
+1063,serum cholesterol,132,216
+1064,resting blood sugar,132,0
+1065,eletrocardiography,132,0
+1066,maximum heart hate,132,142
+1067,exercice induce angina,132,1
+1068,ST depression induced by exercice,132,2.0
+1069,slope of ST segment on exercice,132,2
+1070,chest pain,133,3
+1071,blood pressure,133,120
+1072,serum cholesterol,133,274
+1073,resting blood sugar,133,0
+1074,eletrocardiography,133,0
+1075,maximum heart hate,133,130
+1076,exercice induce angina,133,0
+1077,ST depression induced by exercice,133,0.0
+1078,chest pain,134,2
+1079,blood pressure,134,120
+1080,resting blood sugar,134,0
+1081,eletrocardiography,134,0
+1082,maximum heart hate,134,132
+1083,exercice induce angina,134,0
+1084,ST depression induced by exercice,134,0.0
+1085,chest pain,135,2
+1086,blood pressure,135,140
+1087,serum cholesterol,135,320
+1088,resting blood sugar,135,0
+1089,eletrocardiography,135,0
+1090,maximum heart hate,135,162
+1091,exercice induce angina,135,0
+1092,ST depression induced by exercice,135,0.0
+1093,chest pain,136,3
+1094,blood pressure,136,120
+1095,serum cholesterol,136,195
+1096,resting blood sugar,136,0
+1097,eletrocardiography,136,0
+1098,maximum heart hate,136,140
+1099,exercice induce angina,136,0
+1100,ST depression induced by exercice,136,0.0
+1101,chest pain,137,4
+1102,blood pressure,137,124
+1103,serum cholesterol,137,260
+1104,resting blood sugar,137,0
+1105,eletrocardiography,137,1
+1106,maximum heart hate,137,112
+1107,exercice induce angina,137,1
+1108,ST depression induced by exercice,137,3.0
+1109,slope of ST segment on exercice,137,2
+1110,chest pain,138,4
+1111,blood pressure,138,130
+1112,serum cholesterol,138,182
+1113,resting blood sugar,138,0
+1114,eletrocardiography,138,0
+1115,maximum heart hate,138,148
+1116,exercice induce angina,138,0
+1117,ST depression induced by exercice,138,0.0
+1118,chest pain,139,4
+1119,blood pressure,139,140
+1120,serum cholesterol,139,243
+1121,resting blood sugar,139,0
+1122,eletrocardiography,139,0
+1123,maximum heart hate,139,155
+1124,exercice induce angina,139,0
+1125,ST depression induced by exercice,139,0.0
+1126,chest pain,140,2
+1127,blood pressure,140,120
+1128,serum cholesterol,140,221
+1129,resting blood sugar,140,0
+1130,eletrocardiography,140,0
+1131,maximum heart hate,140,138
+1132,exercice induce angina,140,0
+1133,ST depression induced by exercice,140,1.0
+1134,slope of ST segment on exercice,140,1
+1135,chest pain,141,2
+1136,blood pressure,141,120
+1137,serum cholesterol,141,230
+1138,resting blood sugar,141,1
+1139,eletrocardiography,141,0
+1140,maximum heart hate,141,140
+1141,exercice induce angina,141,0
+1142,ST depression induced by exercice,141,0.0
+1143,chest pain,142,2
+1144,blood pressure,142,120
+1145,serum cholesterol,142,273
+1146,resting blood sugar,142,0
+1147,eletrocardiography,142,0
+1148,maximum heart hate,142,150
+1149,exercice induce angina,142,0
+1150,ST depression induced by exercice,142,1.5
+1151,slope of ST segment on exercice,142,2
+1152,chest pain,143,2
+1153,blood pressure,143,130
+1154,serum cholesterol,143,253
+1155,resting blood sugar,143,0
+1156,eletrocardiography,143,1
+1157,maximum heart hate,143,155
+1158,exercice induce angina,143,0
+1159,ST depression induced by exercice,143,0.0
+1160,chest pain,144,2
+1161,blood pressure,144,140
+1162,serum cholesterol,144,309
+1163,eletrocardiography,144,1
+1164,maximum heart hate,144,140
+1165,exercice induce angina,144,0
+1166,ST depression induced by exercice,144,0.0
+1167,chest pain,145,2
+1168,blood pressure,145,150
+1169,serum cholesterol,145,230
+1170,resting blood sugar,145,0
+1171,eletrocardiography,145,0
+1172,maximum heart hate,145,130
+1173,exercice induce angina,145,0
+1174,ST depression induced by exercice,145,0.0
+1175,chest pain,146,2
+1176,blood pressure,146,160
+1177,serum cholesterol,146,312
+1178,resting blood sugar,146,0
+1179,eletrocardiography,146,0
+1180,maximum heart hate,146,130
+1181,exercice induce angina,146,0
+1182,ST depression induced by exercice,146,0.0
+1183,chest pain,147,1
+1184,blood pressure,147,120
+1185,serum cholesterol,147,171
+1186,resting blood sugar,147,0
+1187,eletrocardiography,147,0
+1188,maximum heart hate,147,137
+1189,exercice induce angina,147,0
+1190,ST depression induced by exercice,147,2.0
+1191,slope of ST segment on exercice,147,1
+1192,chest pain,148,2
+1193,blood pressure,148,110
+1194,serum cholesterol,148,208
+1195,resting blood sugar,148,0
+1196,eletrocardiography,148,0
+1197,maximum heart hate,148,142
+1198,exercice induce angina,148,0
+1199,ST depression induced by exercice,148,0.0
+1200,chest pain,149,2
+1201,blood pressure,149,120
+1202,serum cholesterol,149,238
+1203,resting blood sugar,149,0
+1204,eletrocardiography,149,0
+1205,maximum heart hate,149,154
+1206,exercice induce angina,149,0
+1207,ST depression induced by exercice,149,0.0
+1208,chest pain,150,2
+1209,blood pressure,150,120
+1210,serum cholesterol,150,246
+1211,resting blood sugar,150,0
+1212,eletrocardiography,150,0
+1213,maximum heart hate,150,110
+1214,exercice induce angina,150,0
+1215,ST depression induced by exercice,150,0.0
+1216,chest pain,151,2
+1217,blood pressure,151,160
+1218,serum cholesterol,151,195
+1219,resting blood sugar,151,0
+1220,eletrocardiography,151,1
+1221,maximum heart hate,151,130
+1222,exercice induce angina,151,0
+1223,ST depression induced by exercice,151,1.0
+1224,slope of ST segment on exercice,151,1
+1225,chest pain,152,2
+1226,blood pressure,152,160
+1227,serum cholesterol,152,305
+1228,resting blood sugar,152,0
+1229,eletrocardiography,152,0
+1230,maximum heart hate,152,175
+1231,exercice induce angina,152,0
+1232,ST depression induced by exercice,152,0.0
+1233,chest pain,153,3
+1234,blood pressure,153,120
+1235,serum cholesterol,153,217
+1236,resting blood sugar,153,0
+1237,eletrocardiography,153,0
+1238,maximum heart hate,153,137
+1239,exercice induce angina,153,0
+1240,ST depression induced by exercice,153,0.0
+1241,chest pain,154,3
+1242,blood pressure,154,150
+1243,resting blood sugar,154,0
+1244,eletrocardiography,154,0
+1245,maximum heart hate,154,122
+1246,exercice induce angina,154,0
+1247,ST depression induced by exercice,154,0.0
+1248,chest pain,155,4
+1249,blood pressure,155,150
+1250,serum cholesterol,155,365
+1251,resting blood sugar,155,0
+1252,eletrocardiography,155,1
+1253,maximum heart hate,155,134
+1254,exercice induce angina,155,0
+1255,ST depression induced by exercice,155,1.0
+1256,slope of ST segment on exercice,155,1
+1257,chest pain,156,2
+1258,blood pressure,156,110
+1259,serum cholesterol,156,344
+1260,resting blood sugar,156,0
+1261,eletrocardiography,156,1
+1262,maximum heart hate,156,160
+1263,exercice induce angina,156,0
+1264,ST depression induced by exercice,156,0.0
+1265,chest pain,157,2
+1266,blood pressure,157,122
+1267,serum cholesterol,157,320
+1268,resting blood sugar,157,0
+1269,eletrocardiography,157,0
+1270,maximum heart hate,157,155
+1271,exercice induce angina,157,0
+1272,ST depression induced by exercice,157,0.0
+1273,chest pain,158,2
+1274,blood pressure,158,130
+1275,serum cholesterol,158,394
+1276,resting blood sugar,158,0
+1277,eletrocardiography,158,2
+1278,maximum heart hate,158,150
+1279,exercice induce angina,158,0
+1280,ST depression induced by exercice,158,0.0
+1281,chest pain,159,2
+1282,blood pressure,159,120
+1283,serum cholesterol,159,256
+1284,resting blood sugar,159,1
+1285,eletrocardiography,159,0
+1286,maximum heart hate,159,137
+1287,exercice induce angina,159,0
+1288,ST depression induced by exercice,159,0.0
+1289,thal,159,7
+1290,chest pain,160,2
+1291,blood pressure,160,140
+1292,serum cholesterol,160,196
+1293,resting blood sugar,160,0
+1294,eletrocardiography,160,0
+1295,maximum heart hate,160,150
+1296,exercice induce angina,160,0
+1297,ST depression induced by exercice,160,0.0
+1298,thal,160,7
+1299,chest pain,161,2
+1300,blood pressure,161,145
+1301,serum cholesterol,161,326
+1302,resting blood sugar,161,0
+1303,eletrocardiography,161,0
+1304,maximum heart hate,161,155
+1305,exercice induce angina,161,0
+1306,ST depression induced by exercice,161,0.0
+1307,chest pain,162,3
+1308,blood pressure,162,110
+1309,serum cholesterol,162,277
+1310,resting blood sugar,162,0
+1311,eletrocardiography,162,0
+1312,maximum heart hate,162,160
+1313,exercice induce angina,162,0
+1314,ST depression induced by exercice,162,0.0
+1315,chest pain,163,3
+1316,blood pressure,163,120
+1317,serum cholesterol,163,220
+1318,resting blood sugar,163,0
+1319,eletrocardiography,163,2
+1320,maximum heart hate,163,134
+1321,exercice induce angina,163,0
+1322,ST depression induced by exercice,163,0.0
+1323,chest pain,164,4
+1324,blood pressure,164,120
+1325,serum cholesterol,164,270
+1326,resting blood sugar,164,0
+1327,eletrocardiography,164,0
+1328,maximum heart hate,164,140
+1329,exercice induce angina,164,0
+1330,ST depression induced by exercice,164,0.0
+1331,chest pain,165,4
+1332,blood pressure,165,140
+1333,serum cholesterol,165,229
+1334,resting blood sugar,165,0
+1335,eletrocardiography,165,0
+1336,maximum heart hate,165,110
+1337,exercice induce angina,165,1
+1338,ST depression induced by exercice,165,0.5
+1339,slope of ST segment on exercice,165,2
+1340,chest pain,166,3
+1341,blood pressure,166,130
+1342,serum cholesterol,166,219
+1343,eletrocardiography,166,1
+1344,maximum heart hate,166,164
+1345,exercice induce angina,166,0
+1346,ST depression induced by exercice,166,0.0
+1347,thal,166,7
+1348,chest pain,167,2
+1349,blood pressure,167,130
+1350,serum cholesterol,167,184
+1351,resting blood sugar,167,0
+1352,eletrocardiography,167,0
+1353,maximum heart hate,167,100
+1354,exercice induce angina,167,0
+1355,ST depression induced by exercice,167,0.0
+1356,chest pain,168,3
+1357,blood pressure,168,130
+1358,resting blood sugar,168,0
+1359,eletrocardiography,168,0
+1360,maximum heart hate,168,114
+1361,exercice induce angina,168,0
+1362,ST depression induced by exercice,168,0.0
+1363,chest pain,169,3
+1364,blood pressure,169,130
+1365,serum cholesterol,169,276
+1366,resting blood sugar,169,0
+1367,eletrocardiography,169,0
+1368,maximum heart hate,169,128
+1369,exercice induce angina,169,1
+1370,ST depression induced by exercice,169,1.0
+1371,slope of ST segment on exercice,169,1
+1372,thal,169,6
+1373,chest pain,170,4
+1374,blood pressure,170,120
+1375,serum cholesterol,170,85
+1376,resting blood sugar,170,0
+1377,eletrocardiography,170,0
+1378,maximum heart hate,170,140
+1379,exercice induce angina,170,0
+1380,ST depression induced by exercice,170,0.0
+1381,chest pain,171,1
+1382,blood pressure,171,130
+1383,serum cholesterol,171,308
+1384,resting blood sugar,171,0
+1385,eletrocardiography,171,0
+1386,maximum heart hate,171,98
+1387,exercice induce angina,171,0
+1388,ST depression induced by exercice,171,1.0
+1389,slope of ST segment on exercice,171,2
+1390,chest pain,172,4
+1391,blood pressure,172,180
+1392,serum cholesterol,172,347
+1393,resting blood sugar,172,0
+1394,eletrocardiography,172,1
+1395,maximum heart hate,172,126
+1396,exercice induce angina,172,1
+1397,ST depression induced by exercice,172,0.8
+1398,slope of ST segment on exercice,172,2
+1399,chest pain,173,2
+1400,blood pressure,173,140
+1401,serum cholesterol,173,260
+1402,resting blood sugar,173,1
+1403,eletrocardiography,173,0
+1404,maximum heart hate,173,140
+1405,exercice induce angina,173,0
+1406,ST depression induced by exercice,173,0.0
+1407,thal,173,6
+1408,chest pain,174,2
+1409,blood pressure,174,130
+1410,serum cholesterol,174,230
+1411,resting blood sugar,174,0
+1412,eletrocardiography,174,0
+1413,maximum heart hate,174,150
+1414,exercice induce angina,174,0
+1415,ST depression induced by exercice,174,0.0
+1416,chest pain,175,2
+1417,blood pressure,175,130
+1418,serum cholesterol,175,251
+1419,resting blood sugar,175,0
+1420,eletrocardiography,175,0
+1421,maximum heart hate,175,110
+1422,exercice induce angina,175,0
+1423,ST depression induced by exercice,175,0.0
+1424,chest pain,176,3
+1425,blood pressure,176,140
+1426,serum cholesterol,176,179
+1427,resting blood sugar,176,0
+1428,eletrocardiography,176,0
+1429,maximum heart hate,176,160
+1430,exercice induce angina,176,0
+1431,ST depression induced by exercice,176,0.0
+1432,chest pain,177,4
+1433,blood pressure,177,135
+1434,serum cholesterol,177,222
+1435,resting blood sugar,177,0
+1436,eletrocardiography,177,0
+1437,maximum heart hate,177,100
+1438,exercice induce angina,177,0
+1439,ST depression induced by exercice,177,0.0
+1440,chest pain,178,2
+1441,blood pressure,178,130
+1442,serum cholesterol,178,188
+1443,resting blood sugar,178,0
+1444,eletrocardiography,178,0
+1445,maximum heart hate,178,124
+1446,exercice induce angina,178,0
+1447,ST depression induced by exercice,178,1.0
+1448,slope of ST segment on exercice,178,2
+1449,chest pain,179,2
+1450,blood pressure,179,140
+1451,serum cholesterol,179,287
+1452,resting blood sugar,179,0
+1453,eletrocardiography,179,0
+1454,maximum heart hate,179,150
+1455,exercice induce angina,179,0
+1456,ST depression induced by exercice,179,0.0
+1457,chest pain,180,3
+1458,blood pressure,180,130
+1459,serum cholesterol,180,318
+1460,resting blood sugar,180,0
+1461,eletrocardiography,180,0
+1462,maximum heart hate,180,120
+1463,exercice induce angina,180,1
+1464,ST depression induced by exercice,180,1.0
+1465,slope of ST segment on exercice,180,2
+1466,thal,180,3
+1467,chest pain,181,3
+1468,blood pressure,181,180
+1469,serum cholesterol,181,213
+1470,resting blood sugar,181,0
+1471,eletrocardiography,181,0
+1472,maximum heart hate,181,100
+1473,exercice induce angina,181,0
+1474,ST depression induced by exercice,181,0.0
+1475,chest pain,182,4
+1476,blood pressure,182,140
+1477,resting blood sugar,182,0
+1478,eletrocardiography,182,0
+1479,maximum heart hate,182,140
+1480,exercice induce angina,182,0
+1481,ST depression induced by exercice,182,0.0
+1482,vassels colored by flourosopy,182,0
+1483,chest pain,183,3
+1484,blood pressure,183,120
+1485,serum cholesterol,183,246
+1486,resting blood sugar,183,0
+1487,eletrocardiography,183,2
+1488,maximum heart hate,183,135
+1489,exercice induce angina,183,0
+1490,ST depression induced by exercice,183,0.0
+1491,chest pain,184,4
+1492,blood pressure,184,130
+1493,serum cholesterol,184,294
+1494,resting blood sugar,184,0
+1495,eletrocardiography,184,1
+1496,maximum heart hate,184,120
+1497,exercice induce angina,184,1
+1498,ST depression induced by exercice,184,1.0
+1499,slope of ST segment on exercice,184,2
+1500,chest pain,185,4
+1501,blood pressure,185,125
+1502,serum cholesterol,185,292
+1503,resting blood sugar,185,0
+1504,eletrocardiography,185,1
+1505,maximum heart hate,185,115
+1506,exercice induce angina,185,1
+1507,ST depression induced by exercice,185,0.0
+1508,chest pain,186,1
+1509,blood pressure,186,160
+1510,serum cholesterol,186,193
+1511,resting blood sugar,186,0
+1512,eletrocardiography,186,0
+1513,maximum heart hate,186,116
+1514,exercice induce angina,186,0
+1515,ST depression induced by exercice,186,0.0
+1516,chest pain,187,2
+1517,blood pressure,187,140
+1518,serum cholesterol,187,271
+1519,resting blood sugar,187,0
+1520,eletrocardiography,187,0
+1521,maximum heart hate,187,152
+1522,exercice induce angina,187,0
+1523,ST depression induced by exercice,187,1.0
+1524,slope of ST segment on exercice,187,1
+1525,chest pain,188,4
+1526,blood pressure,188,120
+1527,serum cholesterol,188,270
+1528,resting blood sugar,188,0
+1529,eletrocardiography,188,0
+1530,maximum heart hate,188,153
+1531,exercice induce angina,188,1
+1532,ST depression induced by exercice,188,1.5
+1533,slope of ST segment on exercice,188,2
+1534,chest pain,189,4
+1535,blood pressure,189,100
+1536,serum cholesterol,189,246
+1537,resting blood sugar,189,0
+1538,eletrocardiography,189,0
+1539,maximum heart hate,189,150
+1540,exercice induce angina,189,1
+1541,ST depression induced by exercice,189,1.0
+1542,slope of ST segment on exercice,189,2
+1543,chest pain,190,1
+1544,blood pressure,190,140
+1545,serum cholesterol,190,156
+1546,resting blood sugar,190,0
+1547,eletrocardiography,190,0
+1548,maximum heart hate,190,180
+1549,exercice induce angina,190,0
+1550,ST depression induced by exercice,190,0.0
+1551,chest pain,191,2
+1552,blood pressure,191,110
+1553,serum cholesterol,191,257
+1554,resting blood sugar,191,0
+1555,eletrocardiography,191,0
+1556,maximum heart hate,191,140
+1557,exercice induce angina,191,0
+1558,ST depression induced by exercice,191,0.0
+1559,chest pain,192,2
+1560,blood pressure,192,120
+1561,serum cholesterol,192,267
+1562,resting blood sugar,192,0
+1563,eletrocardiography,192,0
+1564,maximum heart hate,192,160
+1565,exercice induce angina,192,0
+1566,ST depression induced by exercice,192,3.0
+1567,slope of ST segment on exercice,192,2
+1568,chest pain,193,4
+1569,blood pressure,193,140
+1570,serum cholesterol,193,207
+1571,resting blood sugar,193,0
+1572,eletrocardiography,193,0
+1573,maximum heart hate,193,130
+1574,exercice induce angina,193,1
+1575,ST depression induced by exercice,193,1.5
+1576,slope of ST segment on exercice,193,2
+1577,chest pain,194,4
+1578,blood pressure,194,110
+1579,serum cholesterol,194,196
+1580,resting blood sugar,194,0
+1581,eletrocardiography,194,0
+1582,maximum heart hate,194,166
+1583,exercice induce angina,194,0
+1584,ST depression induced by exercice,194,0.0
+1585,chest pain,195,4
+1586,blood pressure,195,120
+1587,serum cholesterol,195,282
+1588,resting blood sugar,195,0
+1589,eletrocardiography,195,0
+1590,maximum heart hate,195,170
+1591,exercice induce angina,195,0
+1592,ST depression induced by exercice,195,0.0
+1593,chest pain,196,4
+1594,blood pressure,196,92
+1595,serum cholesterol,196,117
+1596,resting blood sugar,196,0
+1597,eletrocardiography,196,0
+1598,maximum heart hate,196,134
+1599,exercice induce angina,196,1
+1600,ST depression induced by exercice,196,2.5
+1601,slope of ST segment on exercice,196,2
+1602,chest pain,197,4
+1603,blood pressure,197,120
+1604,serum cholesterol,197,466
+1605,eletrocardiography,197,0
+1606,maximum heart hate,197,152
+1607,exercice induce angina,197,1
+1608,ST depression induced by exercice,197,1.0
+1609,slope of ST segment on exercice,197,2
+1610,thal,197,6
+1611,chest pain,198,4
+1612,blood pressure,198,110
+1613,serum cholesterol,198,289
+1614,resting blood sugar,198,0
+1615,eletrocardiography,198,0
+1616,maximum heart hate,198,170
+1617,exercice induce angina,198,0
+1618,ST depression induced by exercice,198,0.0
+1619,thal,198,6
+1620,chest pain,199,4
+1621,blood pressure,199,120
+1622,serum cholesterol,199,237
+1623,eletrocardiography,199,0
+1624,maximum heart hate,199,138
+1625,exercice induce angina,199,1
+1626,ST depression induced by exercice,199,1.0
+1627,slope of ST segment on exercice,199,2
+1628,chest pain,200,4
+1629,blood pressure,200,150
+1630,serum cholesterol,200,247
+1631,resting blood sugar,200,0
+1632,eletrocardiography,200,0
+1633,maximum heart hate,200,130
+1634,exercice induce angina,200,1
+1635,ST depression induced by exercice,200,2.0
+1636,slope of ST segment on exercice,200,2
+1637,chest pain,201,4
+1638,blood pressure,201,110
+1639,serum cholesterol,201,202
+1640,resting blood sugar,201,0
+1641,eletrocardiography,201,0
+1642,maximum heart hate,201,150
+1643,exercice induce angina,201,1
+1644,ST depression induced by exercice,201,0.0
+1645,chest pain,202,4
+1646,blood pressure,202,118
+1647,serum cholesterol,202,186
+1648,resting blood sugar,202,0
+1649,eletrocardiography,202,0
+1650,maximum heart hate,202,124
+1651,exercice induce angina,202,0
+1652,ST depression induced by exercice,202,0.0
+1653,thal,202,7
+1654,chest pain,203,4
+1655,blood pressure,203,120
+1656,serum cholesterol,203,277
+1657,resting blood sugar,203,0
+1658,eletrocardiography,203,0
+1659,maximum heart hate,203,125
+1660,exercice induce angina,203,1
+1661,ST depression induced by exercice,203,1.0
+1662,slope of ST segment on exercice,203,2
+1663,chest pain,204,3
+1664,blood pressure,204,140
+1665,serum cholesterol,204,193
+1666,resting blood sugar,204,0
+1667,eletrocardiography,204,0
+1668,maximum heart hate,204,145
+1669,exercice induce angina,204,1
+1670,ST depression induced by exercice,204,1.0
+1671,slope of ST segment on exercice,204,2
+1672,chest pain,205,4
+1673,blood pressure,205,150
+1674,serum cholesterol,205,226
+1675,resting blood sugar,205,0
+1676,eletrocardiography,205,0
+1677,maximum heart hate,205,98
+1678,exercice induce angina,205,1
+1679,ST depression induced by exercice,205,1.5
+1680,slope of ST segment on exercice,205,2
+1681,vassels colored by flourosopy,205,0
+1682,thal,205,7
+1683,chest pain,206,4
+1684,blood pressure,206,106
+1685,serum cholesterol,206,263
+1686,resting blood sugar,206,1
+1687,eletrocardiography,206,0
+1688,maximum heart hate,206,110
+1689,exercice induce angina,206,0
+1690,ST depression induced by exercice,206,0.0
+1691,chest pain,207,4
+1692,blood pressure,207,120
+1693,serum cholesterol,207,260
+1694,resting blood sugar,207,0
+1695,eletrocardiography,207,0
+1696,maximum heart hate,207,115
+1697,exercice induce angina,207,0
+1698,ST depression induced by exercice,207,2.0
+1699,slope of ST segment on exercice,207,2
+1700,chest pain,208,4
+1701,blood pressure,208,160
+1702,serum cholesterol,208,268
+1703,resting blood sugar,208,0
+1704,eletrocardiography,208,0
+1705,maximum heart hate,208,103
+1706,exercice induce angina,208,1
+1707,ST depression induced by exercice,208,1.0
+1708,slope of ST segment on exercice,208,2
+1709,chest pain,209,3
+1710,blood pressure,209,160
+1711,serum cholesterol,209,180
+1712,resting blood sugar,209,0
+1713,eletrocardiography,209,0
+1714,maximum heart hate,209,156
+1715,exercice induce angina,209,0
+1716,ST depression induced by exercice,209,1.0
+1717,slope of ST segment on exercice,209,2
+1718,chest pain,210,3
+1719,blood pressure,210,115
+1720,serum cholesterol,210,265
+1721,resting blood sugar,210,0
+1722,eletrocardiography,210,0
+1723,maximum heart hate,210,175
+1724,exercice induce angina,210,0
+1725,ST depression induced by exercice,210,0.0
+1726,chest pain,211,4
+1727,blood pressure,211,130
+1728,serum cholesterol,211,206
+1729,resting blood sugar,211,0
+1730,eletrocardiography,211,0
+1731,maximum heart hate,211,170
+1732,exercice induce angina,211,0
+1733,ST depression induced by exercice,211,0.0
+1734,chest pain,212,3
+1735,blood pressure,212,140
+1736,serum cholesterol,212,288
+1737,resting blood sugar,212,0
+1738,eletrocardiography,212,0
+1739,maximum heart hate,212,140
+1740,exercice induce angina,212,1
+1741,ST depression induced by exercice,212,0.0
+1742,thal,212,7
+1743,chest pain,213,4
+1744,blood pressure,213,145
+1745,serum cholesterol,213,264
+1746,resting blood sugar,213,0
+1747,eletrocardiography,213,0
+1748,maximum heart hate,213,150
+1749,exercice induce angina,213,0
+1750,ST depression induced by exercice,213,0.0
+1751,chest pain,214,4
+1752,blood pressure,214,160
+1753,serum cholesterol,214,303
+1754,resting blood sugar,214,0
+1755,eletrocardiography,214,0
+1756,maximum heart hate,214,150
+1757,exercice induce angina,214,1
+1758,ST depression induced by exercice,214,1.0
+1759,slope of ST segment on exercice,214,2
+1760,chest pain,215,4
+1761,blood pressure,215,130
+1762,serum cholesterol,215,225
+1763,resting blood sugar,215,0
+1764,eletrocardiography,215,0
+1765,maximum heart hate,215,120
+1766,exercice induce angina,215,1
+1767,ST depression induced by exercice,215,2.0
+1768,slope of ST segment on exercice,215,2
+1769,chest pain,216,4
+1770,blood pressure,216,125
+1771,serum cholesterol,216,216
+1772,resting blood sugar,216,0
+1773,eletrocardiography,216,0
+1774,maximum heart hate,216,140
+1775,exercice induce angina,216,0
+1776,ST depression induced by exercice,216,0.0
+1777,chest pain,217,4
+1778,blood pressure,217,125
+1779,serum cholesterol,217,224
+1780,resting blood sugar,217,0
+1781,eletrocardiography,217,0
+1782,maximum heart hate,217,122
+1783,exercice induce angina,217,0
+1784,ST depression induced by exercice,217,2.0
+1785,slope of ST segment on exercice,217,2
+1786,chest pain,218,4
+1787,blood pressure,218,140
+1788,serum cholesterol,218,201
+1789,resting blood sugar,218,0
+1790,eletrocardiography,218,0
+1791,maximum heart hate,218,130
+1792,exercice induce angina,218,1
+1793,ST depression induced by exercice,218,3.0
+1794,slope of ST segment on exercice,218,2
+1795,chest pain,219,2
+1796,blood pressure,219,140
+1797,serum cholesterol,219,265
+1798,resting blood sugar,219,0
+1799,eletrocardiography,219,1
+1800,maximum heart hate,219,145
+1801,exercice induce angina,219,1
+1802,ST depression induced by exercice,219,1.0
+1803,slope of ST segment on exercice,219,2
+1804,chest pain,220,3
+1805,blood pressure,220,130
+1806,serum cholesterol,220,213
+1807,resting blood sugar,220,0
+1808,eletrocardiography,220,1
+1809,maximum heart hate,220,140
+1810,exercice induce angina,220,0
+1811,ST depression induced by exercice,220,0.0
+1812,thal,220,6
+1813,chest pain,221,4
+1814,blood pressure,221,130
+1815,serum cholesterol,221,338
+1816,resting blood sugar,221,1
+1817,eletrocardiography,221,1
+1818,maximum heart hate,221,130
+1819,exercice induce angina,221,1
+1820,ST depression induced by exercice,221,1.5
+1821,slope of ST segment on exercice,221,2
+1822,chest pain,222,4
+1823,blood pressure,222,100
+1824,serum cholesterol,222,248
+1825,resting blood sugar,222,0
+1826,eletrocardiography,222,0
+1827,maximum heart hate,222,125
+1828,exercice induce angina,222,0
+1829,ST depression induced by exercice,222,1.0
+1830,slope of ST segment on exercice,222,2
+1831,chest pain,223,4
+1832,blood pressure,223,150
+1833,serum cholesterol,223,223
+1834,resting blood sugar,223,0
+1835,eletrocardiography,223,0
+1836,maximum heart hate,223,115
+1837,exercice induce angina,223,0
+1838,ST depression induced by exercice,223,0.0
+1839,chest pain,224,4
+1840,blood pressure,224,140
+1841,serum cholesterol,224,306
+1842,resting blood sugar,224,1
+1843,eletrocardiography,224,0
+1844,maximum heart hate,224,87
+1845,exercice induce angina,224,1
+1846,ST depression induced by exercice,224,1.5
+1847,slope of ST segment on exercice,224,2
+1848,chest pain,225,4
+1849,blood pressure,225,118
+1850,serum cholesterol,225,529
+1851,resting blood sugar,225,0
+1852,eletrocardiography,225,0
+1853,maximum heart hate,225,130
+1854,exercice induce angina,225,0
+1855,ST depression induced by exercice,225,0.0
+1856,chest pain,226,4
+1857,blood pressure,226,110
+1858,resting blood sugar,226,0
+1859,eletrocardiography,226,0
+1860,maximum heart hate,226,150
+1861,exercice induce angina,226,1
+1862,ST depression induced by exercice,226,1.0
+1863,slope of ST segment on exercice,226,2
+1864,chest pain,227,4
+1865,blood pressure,227,110
+1866,serum cholesterol,227,280
+1867,resting blood sugar,227,0
+1868,eletrocardiography,227,0
+1869,maximum heart hate,227,150
+1870,exercice induce angina,227,0
+1871,ST depression induced by exercice,227,0.0
+1872,thal,227,6
+1873,chest pain,228,4
+1874,blood pressure,228,150
+1875,serum cholesterol,228,392
+1876,resting blood sugar,228,0
+1877,eletrocardiography,228,0
+1878,maximum heart hate,228,130
+1879,exercice induce angina,228,0
+1880,ST depression induced by exercice,228,2.0
+1881,slope of ST segment on exercice,228,2
+1882,thal,228,6
+1883,chest pain,229,1
+1884,blood pressure,229,120
+1885,serum cholesterol,229,291
+1886,resting blood sugar,229,0
+1887,eletrocardiography,229,1
+1888,maximum heart hate,229,155
+1889,exercice induce angina,229,0
+1890,ST depression induced by exercice,229,0.0
+1891,chest pain,230,4
+1892,blood pressure,230,130
+1893,serum cholesterol,230,219
+1894,resting blood sugar,230,0
+1895,eletrocardiography,230,1
+1896,maximum heart hate,230,130
+1897,exercice induce angina,230,1
+1898,ST depression induced by exercice,230,1.0
+1899,slope of ST segment on exercice,230,2
+1900,chest pain,231,4
+1901,blood pressure,231,120
+1902,serum cholesterol,231,231
+1903,resting blood sugar,231,0
+1904,eletrocardiography,231,0
+1905,maximum heart hate,231,115
+1906,exercice induce angina,231,1
+1907,ST depression induced by exercice,231,0.0
+1908,chest pain,232,4
+1909,blood pressure,232,130
+1910,serum cholesterol,232,222
+1911,resting blood sugar,232,0
+1912,eletrocardiography,232,0
+1913,maximum heart hate,232,112
+1914,exercice induce angina,232,0
+1915,ST depression induced by exercice,232,0.0
+1916,chest pain,233,4
+1917,blood pressure,233,122
+1918,serum cholesterol,233,275
+1919,resting blood sugar,233,1
+1920,eletrocardiography,233,1
+1921,maximum heart hate,233,150
+1922,exercice induce angina,233,1
+1923,ST depression induced by exercice,233,2.0
+1924,slope of ST segment on exercice,233,3
+1925,chest pain,234,4
+1926,blood pressure,234,160
+1927,serum cholesterol,234,193
+1928,resting blood sugar,234,0
+1929,eletrocardiography,234,0
+1930,maximum heart hate,234,102
+1931,exercice induce angina,234,1
+1932,ST depression induced by exercice,234,3.0
+1933,slope of ST segment on exercice,234,2
+1934,chest pain,235,4
+1935,blood pressure,235,160
+1936,serum cholesterol,235,329
+1937,resting blood sugar,235,0
+1938,eletrocardiography,235,0
+1939,maximum heart hate,235,92
+1940,exercice induce angina,235,1
+1941,ST depression induced by exercice,235,1.5
+1942,slope of ST segment on exercice,235,2
+1943,chest pain,236,4
+1944,blood pressure,236,160
+1945,serum cholesterol,236,355
+1946,resting blood sugar,236,0
+1947,eletrocardiography,236,0
+1948,maximum heart hate,236,99
+1949,exercice induce angina,236,1
+1950,ST depression induced by exercice,236,2.0
+1951,slope of ST segment on exercice,236,2
+1952,chest pain,237,4
+1953,blood pressure,237,130
+1954,serum cholesterol,237,233
+1955,resting blood sugar,237,0
+1956,eletrocardiography,237,0
+1957,maximum heart hate,237,121
+1958,exercice induce angina,237,1
+1959,ST depression induced by exercice,237,2.0
+1960,slope of ST segment on exercice,237,2
+1961,thal,237,7
+1962,chest pain,238,4
+1963,blood pressure,238,120
+1964,serum cholesterol,238,182
+1965,resting blood sugar,238,0
+1966,eletrocardiography,238,0
+1967,maximum heart hate,238,150
+1968,exercice induce angina,238,0
+1969,ST depression induced by exercice,238,0.0
+1970,chest pain,239,4
+1971,blood pressure,239,170
+1972,resting blood sugar,239,0
+1973,eletrocardiography,239,0
+1974,maximum heart hate,239,126
+1975,exercice induce angina,239,1
+1976,ST depression induced by exercice,239,1.5
+1977,slope of ST segment on exercice,239,2
+1978,chest pain,240,4
+1979,blood pressure,240,120
+1980,serum cholesterol,240,246
+1981,resting blood sugar,240,0
+1982,eletrocardiography,240,0
+1983,maximum heart hate,240,116
+1984,exercice induce angina,240,1
+1985,ST depression induced by exercice,240,0.0
+1986,chest pain,241,3
+1987,blood pressure,241,120
+1988,serum cholesterol,241,237
+1989,resting blood sugar,241,0
+1990,eletrocardiography,241,0
+1991,maximum heart hate,241,150
+1992,exercice induce angina,241,1
+1993,ST depression induced by exercice,241,1.5
+1994,thal,241,7
+1995,chest pain,242,4
+1996,blood pressure,242,130
+1997,serum cholesterol,242,242
+1998,resting blood sugar,242,0
+1999,eletrocardiography,242,0
+2000,maximum heart hate,242,91
+2001,exercice induce angina,242,1
+2002,ST depression induced by exercice,242,1.0
+2003,slope of ST segment on exercice,242,2
+2004,chest pain,243,4
+2005,blood pressure,243,130
+2006,serum cholesterol,243,603
+2007,resting blood sugar,243,1
+2008,eletrocardiography,243,0
+2009,maximum heart hate,243,125
+2010,exercice induce angina,243,1
+2011,ST depression induced by exercice,243,1.0
+2012,slope of ST segment on exercice,243,2
+2013,chest pain,244,4
+2014,blood pressure,244,140
+2015,resting blood sugar,244,0
+2016,eletrocardiography,244,0
+2017,maximum heart hate,244,118
+2018,exercice induce angina,244,1
+2019,ST depression induced by exercice,244,0.0
+2020,chest pain,245,4
+2021,blood pressure,245,200
+2022,serum cholesterol,245,198
+2023,resting blood sugar,245,0
+2024,eletrocardiography,245,0
+2025,maximum heart hate,245,142
+2026,exercice induce angina,245,1
+2027,ST depression induced by exercice,245,2.0
+2028,slope of ST segment on exercice,245,2
+2029,chest pain,246,4
+2030,blood pressure,246,140
+2031,serum cholesterol,246,268
+2032,resting blood sugar,246,0
+2033,eletrocardiography,246,0
+2034,maximum heart hate,246,128
+2035,exercice induce angina,246,1
+2036,ST depression induced by exercice,246,1.5
+2037,slope of ST segment on exercice,246,2
+2038,chest pain,247,4
+2039,blood pressure,247,150
+2040,serum cholesterol,247,213
+2041,resting blood sugar,247,1
+2042,eletrocardiography,247,0
+2043,maximum heart hate,247,125
+2044,exercice induce angina,247,1
+2045,ST depression induced by exercice,247,1.0
+2046,slope of ST segment on exercice,247,2
+2047,chest pain,248,4
+2048,blood pressure,248,150
+2049,serum cholesterol,248,255
+2050,resting blood sugar,248,0
+2051,eletrocardiography,248,0
+2052,maximum heart hate,248,92
+2053,exercice induce angina,248,1
+2054,ST depression induced by exercice,248,3.0
+2055,slope of ST segment on exercice,248,2
+2056,chest pain,249,3
+2057,blood pressure,249,160
+2058,serum cholesterol,249,211
+2059,resting blood sugar,249,1
+2060,eletrocardiography,249,1
+2061,maximum heart hate,249,92
+2062,exercice induce angina,249,0
+2063,ST depression induced by exercice,249,0.0
+2064,chest pain,250,4
+2065,blood pressure,250,130
+2066,serum cholesterol,250,263
+2067,resting blood sugar,250,0
+2068,eletrocardiography,250,0
+2069,maximum heart hate,250,140
+2070,exercice induce angina,250,1
+2071,ST depression induced by exercice,250,2.0
+2072,slope of ST segment on exercice,250,2
+2073,chest pain,251,4
+2074,blood pressure,251,130
+2075,serum cholesterol,251,172
+2076,resting blood sugar,251,0
+2077,eletrocardiography,251,1
+2078,maximum heart hate,251,130
+2079,exercice induce angina,251,0
+2080,ST depression induced by exercice,251,2.0
+2081,slope of ST segment on exercice,251,2
+2082,chest pain,252,4
+2083,blood pressure,252,120
+2084,serum cholesterol,252,175
+2085,resting blood sugar,252,0
+2086,eletrocardiography,252,0
+2087,maximum heart hate,252,120
+2088,exercice induce angina,252,1
+2089,ST depression induced by exercice,252,1.0
+2090,slope of ST segment on exercice,252,2
+2091,thal,252,7
+2092,chest pain,253,2
+2093,blood pressure,253,150
+2094,serum cholesterol,253,288
+2095,resting blood sugar,253,0
+2096,eletrocardiography,253,0
+2097,maximum heart hate,253,150
+2098,exercice induce angina,253,1
+2099,ST depression induced by exercice,253,3.0
+2100,slope of ST segment on exercice,253,2
+2101,chest pain,254,4
+2102,blood pressure,254,130
+2103,serum cholesterol,254,290
+2104,resting blood sugar,254,0
+2105,eletrocardiography,254,0
+2106,maximum heart hate,254,100
+2107,exercice induce angina,254,1
+2108,ST depression induced by exercice,254,2.0
+2109,slope of ST segment on exercice,254,2
+2110,chest pain,255,1
+2111,blood pressure,255,140
+2112,serum cholesterol,255,272
+2113,resting blood sugar,255,1
+2114,eletrocardiography,255,0
+2115,maximum heart hate,255,175
+2116,exercice induce angina,255,0
+2117,ST depression induced by exercice,255,2.0
+2118,slope of ST segment on exercice,255,2
+2119,chest pain,256,3
+2120,blood pressure,256,135
+2121,serum cholesterol,256,248
+2122,resting blood sugar,256,1
+2123,eletrocardiography,256,0
+2124,maximum heart hate,256,170
+2125,exercice induce angina,256,0
+2126,ST depression induced by exercice,256,0.0
+2127,chest pain,257,4
+2128,blood pressure,257,138
+2129,serum cholesterol,257,214
+2130,resting blood sugar,257,0
+2131,eletrocardiography,257,0
+2132,maximum heart hate,257,108
+2133,exercice induce angina,257,1
+2134,ST depression induced by exercice,257,1.5
+2135,slope of ST segment on exercice,257,2
+2136,chest pain,258,4
+2137,blood pressure,258,130
+2138,serum cholesterol,258,341
+2139,resting blood sugar,258,0
+2140,eletrocardiography,258,0
+2141,maximum heart hate,258,120
+2142,exercice induce angina,258,1
+2143,ST depression induced by exercice,258,1.0
+2144,slope of ST segment on exercice,258,2
+2145,chest pain,259,4
+2146,blood pressure,259,140
+2147,serum cholesterol,259,234
+2148,resting blood sugar,259,0
+2149,eletrocardiography,259,0
+2150,maximum heart hate,259,140
+2151,exercice induce angina,259,1
+2152,ST depression induced by exercice,259,1.0
+2153,slope of ST segment on exercice,259,2
+2154,chest pain,260,3
+2155,blood pressure,260,135
+2156,serum cholesterol,260,160
+2157,resting blood sugar,260,0
+2158,eletrocardiography,260,0
+2159,maximum heart hate,260,150
+2160,exercice induce angina,260,0
+2161,ST depression induced by exercice,260,2.0
+2162,slope of ST segment on exercice,260,2
+2163,chest pain,261,4
+2164,blood pressure,261,112
+2165,serum cholesterol,261,342
+2166,resting blood sugar,261,0
+2167,eletrocardiography,261,1
+2168,maximum heart hate,261,96
+2169,exercice induce angina,261,1
+2170,ST depression induced by exercice,261,1.0
+2171,slope of ST segment on exercice,261,2
+2172,chest pain,262,4
+2173,blood pressure,262,130
+2174,serum cholesterol,262,298
+2175,resting blood sugar,262,0
+2176,eletrocardiography,262,0
+2177,maximum heart hate,262,110
+2178,exercice induce angina,262,1
+2179,ST depression induced by exercice,262,1.0
+2180,slope of ST segment on exercice,262,2
+2181,chest pain,263,4
+2182,blood pressure,263,140
+2183,serum cholesterol,263,404
+2184,resting blood sugar,263,0
+2185,eletrocardiography,263,0
+2186,maximum heart hate,263,124
+2187,exercice induce angina,263,1
+2188,ST depression induced by exercice,263,2.0
+2189,slope of ST segment on exercice,263,2
+2190,chest pain,264,4
+2191,blood pressure,264,160
+2192,serum cholesterol,264,246
+2193,resting blood sugar,264,0
+2194,eletrocardiography,264,1
+2195,maximum heart hate,264,82
+2196,exercice induce angina,264,1
+2197,ST depression induced by exercice,264,4.0
+2198,slope of ST segment on exercice,264,2
+2199,chest pain,265,3
+2200,blood pressure,265,145
+2201,serum cholesterol,265,518
+2202,resting blood sugar,265,0
+2203,eletrocardiography,265,0
+2204,maximum heart hate,265,130
+2205,exercice induce angina,265,0
+2206,ST depression induced by exercice,265,0.0
+2207,chest pain,266,4
+2208,blood pressure,266,180
+2209,serum cholesterol,266,285
+2210,resting blood sugar,266,0
+2211,eletrocardiography,266,1
+2212,maximum heart hate,266,120
+2213,exercice induce angina,266,1
+2214,ST depression induced by exercice,266,1.5
+2215,slope of ST segment on exercice,266,2
+2216,chest pain,267,4
+2217,blood pressure,267,140
+2218,serum cholesterol,267,216
+2219,resting blood sugar,267,0
+2220,eletrocardiography,267,0
+2221,maximum heart hate,267,105
+2222,exercice induce angina,267,0
+2223,ST depression induced by exercice,267,1.5
+2224,slope of ST segment on exercice,267,2
+2225,chest pain,268,1
+2226,blood pressure,268,140
+2227,serum cholesterol,268,295
+2228,resting blood sugar,268,0
+2229,maximum heart hate,268,136
+2230,exercice induce angina,268,0
+2231,ST depression induced by exercice,268,0.0
+2232,chest pain,269,2
+2233,blood pressure,269,160
+2234,serum cholesterol,269,292
+2235,resting blood sugar,269,1
+2236,eletrocardiography,269,0
+2237,maximum heart hate,269,143
+2238,exercice induce angina,269,1
+2239,ST depression induced by exercice,269,2.0
+2240,slope of ST segment on exercice,269,2
+2241,chest pain,270,4
+2242,blood pressure,270,145
+2243,serum cholesterol,270,248
+2244,resting blood sugar,270,0
+2245,eletrocardiography,270,0
+2246,maximum heart hate,270,96
+2247,exercice induce angina,270,1
+2248,ST depression induced by exercice,270,2.0
+2249,slope of ST segment on exercice,270,2
+2250,chest pain,271,2
+2251,blood pressure,271,120
+2252,serum cholesterol,271,279
+2253,resting blood sugar,271,0
+2254,eletrocardiography,271,0
+2255,maximum heart hate,271,150
+2256,exercice induce angina,271,0
+2257,ST depression induced by exercice,271,1.0
+2258,slope of ST segment on exercice,271,2
+2259,chest pain,272,4
+2260,blood pressure,272,150
+2261,serum cholesterol,272,230
+2262,resting blood sugar,272,0
+2263,eletrocardiography,272,1
+2264,maximum heart hate,272,124
+2265,exercice induce angina,272,1
+2266,ST depression induced by exercice,272,1.5
+2267,slope of ST segment on exercice,272,2
+2268,chest pain,273,4
+2269,blood pressure,273,170
+2270,serum cholesterol,273,388
+2271,resting blood sugar,273,0
+2272,eletrocardiography,273,1
+2273,maximum heart hate,273,122
+2274,exercice induce angina,273,1
+2275,ST depression induced by exercice,273,2.0
+2276,slope of ST segment on exercice,273,2
+2277,chest pain,274,2
+2278,blood pressure,274,136
+2279,serum cholesterol,274,164
+2280,resting blood sugar,274,0
+2281,eletrocardiography,274,1
+2282,maximum heart hate,274,99
+2283,exercice induce angina,274,1
+2284,ST depression induced by exercice,274,2.0
+2285,slope of ST segment on exercice,274,2
+2286,chest pain,275,4
+2287,blood pressure,275,130
+2288,resting blood sugar,275,0
+2289,eletrocardiography,275,0
+2290,maximum heart hate,275,125
+2291,exercice induce angina,275,0
+2292,ST depression induced by exercice,275,0.0
+2293,chest pain,276,4
+2294,blood pressure,276,140
+2295,serum cholesterol,276,264
+2296,resting blood sugar,276,1
+2297,eletrocardiography,276,2
+2298,maximum heart hate,276,119
+2299,exercice induce angina,276,1
+2300,ST depression induced by exercice,276,0.0
+2301,chest pain,277,4
+2302,blood pressure,277,170
+2303,serum cholesterol,277,263
+2304,resting blood sugar,277,1
+2305,eletrocardiography,277,0
+2306,maximum heart hate,277,112
+2307,exercice induce angina,277,1
+2308,ST depression induced by exercice,277,2.0
+2309,slope of ST segment on exercice,277,2
+2310,chest pain,278,4
+2311,blood pressure,278,140
+2312,resting blood sugar,278,0
+2313,eletrocardiography,278,0
+2314,maximum heart hate,278,94
+2315,exercice induce angina,278,1
+2316,ST depression induced by exercice,278,1.0
+2317,slope of ST segment on exercice,278,2
+2318,chest pain,279,4
+2319,blood pressure,279,120
+2320,serum cholesterol,279,336
+2321,resting blood sugar,279,0
+2322,eletrocardiography,279,0
+2323,maximum heart hate,279,118
+2324,exercice induce angina,279,1
+2325,ST depression induced by exercice,279,3.0
+2326,slope of ST segment on exercice,279,2
+2327,chest pain,280,4
+2328,blood pressure,280,140
+2329,serum cholesterol,280,288
+2330,resting blood sugar,280,0
+2331,eletrocardiography,280,0
+2332,maximum heart hate,280,135
+2333,exercice induce angina,280,1
+2334,ST depression induced by exercice,280,2.0
+2335,slope of ST segment on exercice,280,2
+2336,chest pain,281,4
+2337,blood pressure,281,135
+2338,serum cholesterol,281,491
+2339,resting blood sugar,281,0
+2340,eletrocardiography,281,0
+2341,maximum heart hate,281,135
+2342,exercice induce angina,281,0
+2343,ST depression induced by exercice,281,0.0
+2344,chest pain,282,4
+2345,blood pressure,282,120
+2346,serum cholesterol,282,205
+2347,resting blood sugar,282,0
+2348,eletrocardiography,282,0
+2349,maximum heart hate,282,98
+2350,exercice induce angina,282,1
+2351,ST depression induced by exercice,282,2.0
+2352,slope of ST segment on exercice,282,2
+2353,thal,282,6
+2354,chest pain,283,4
+2355,blood pressure,283,160
+2356,serum cholesterol,283,291
+2357,resting blood sugar,283,0
+2358,eletrocardiography,283,1
+2359,maximum heart hate,283,158
+2360,exercice induce angina,283,1
+2361,ST depression induced by exercice,283,3.0
+2362,slope of ST segment on exercice,283,2
+2363,chest pain,284,4
+2364,blood pressure,284,128
+2365,serum cholesterol,284,212
+2366,resting blood sugar,284,0
+2367,eletrocardiography,284,0
+2368,maximum heart hate,284,96
+2369,exercice induce angina,284,1
+2370,ST depression induced by exercice,284,0.0
+2371,chest pain,285,4
+2372,blood pressure,285,150
+2373,serum cholesterol,285,222
+2374,resting blood sugar,285,0
+2375,eletrocardiography,285,0
+2376,maximum heart hate,285,122
+2377,exercice induce angina,285,0
+2378,ST depression induced by exercice,285,2.0
+2379,slope of ST segment on exercice,285,2
+2380,chest pain,286,4
+2381,blood pressure,286,140
+2382,serum cholesterol,286,231
+2383,resting blood sugar,286,0
+2384,eletrocardiography,286,1
+2385,maximum heart hate,286,140
+2386,exercice induce angina,286,1
+2387,ST depression induced by exercice,286,5.0
+2388,slope of ST segment on exercice,286,2
+2389,chest pain,287,4
+2390,blood pressure,287,140
+2391,serum cholesterol,287,341
+2392,resting blood sugar,287,0
+2393,eletrocardiography,287,1
+2394,maximum heart hate,287,125
+2395,exercice induce angina,287,1
+2396,ST depression induced by exercice,287,2.5
+2397,slope of ST segment on exercice,287,2
+2398,chest pain,288,4
+2399,blood pressure,288,140
+2400,serum cholesterol,288,266
+2401,resting blood sugar,288,0
+2402,eletrocardiography,288,0
+2403,maximum heart hate,288,134
+2404,exercice induce angina,288,1
+2405,ST depression induced by exercice,288,2.0
+2406,slope of ST segment on exercice,288,2
+2407,chest pain,289,4
+2408,blood pressure,289,160
+2409,serum cholesterol,289,331
+2410,resting blood sugar,289,0
+2411,eletrocardiography,289,0
+2412,maximum heart hate,289,94
+2413,exercice induce angina,289,1
+2414,ST depression induced by exercice,289,2.5
+2415,chest pain,290,3
+2416,blood pressure,290,130
+2417,serum cholesterol,290,294
+2418,resting blood sugar,290,0
+2419,eletrocardiography,290,1
+2420,maximum heart hate,290,100
+2421,exercice induce angina,290,1
+2422,ST depression induced by exercice,290,0.0
+2423,slope of ST segment on exercice,290,2
+2424,chest pain,291,4
+2425,blood pressure,291,155
+2426,serum cholesterol,291,342
+2427,resting blood sugar,291,1
+2428,eletrocardiography,291,0
+2429,maximum heart hate,291,150
+2430,exercice induce angina,291,1
+2431,ST depression induced by exercice,291,3.0
+2432,slope of ST segment on exercice,291,2
+2433,chest pain,292,2
+2434,blood pressure,292,180
+2435,serum cholesterol,292,393
+2436,resting blood sugar,292,0
+2437,eletrocardiography,292,0
+2438,maximum heart hate,292,110
+2439,exercice induce angina,292,1
+2440,ST depression induced by exercice,292,1.0
+2441,slope of ST segment on exercice,292,2
+2442,thal,292,7
+2443,chest pain,293,4
+2444,blood pressure,293,130
+2445,serum cholesterol,293,275
+2446,resting blood sugar,293,0
+2447,eletrocardiography,293,1
+2448,maximum heart hate,293,115
+2449,exercice induce angina,293,1
+2450,ST depression induced by exercice,293,1.0
+2451,slope of ST segment on exercice,293,2
