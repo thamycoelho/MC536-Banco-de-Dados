@@ -1,20 +1,18 @@
 #!/bin/bash
 
+
 # run matplotlib once to generate the font cache
 python -c "import matplotlib as mpl; mpl.use('Agg'); import pylab as plt; fig, ax = plt.subplots(); fig.savefig('test.png')"
 
 test -e test.png && rm test.png
 
-# Beaker installation and extension
+# Beakerx installation and extension
 beakerx install
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter labextension install beakerx-jupyterlab
-conda create -y -n labx 'python>=3'
-source activate labx
-conda config --env --add pinned_packages 'openjdk>8.0.121'
-conda install -y -c conda-forge jupyterlab beakerx
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
 
-# Git Jupyter Lab extension 
+
+# Git Jupyter Lab extension
 jupyter labextension install @jupyterlab/git
 jupyter serverextension enable --py jupyterlab_git
 
@@ -38,11 +36,13 @@ jupyter labextension install @jupyterlab/toc
 # Latex Jupyter Lab extension
 jupyter labextension install @jupyterlab/latex
 
-
+# SPARQL kernel
+jupyter sparqlkernel install --user
 
 
 # Building everything
 jupyter lab build
 
 
+# final touches
 rm conda-bld -R
